@@ -1,6 +1,6 @@
 #### Universal Turing Simulator ####
 
-The program prompts the user to input turing readable instructions. The code for an arbitrary Turing machine is a set of quadruples. The user inputs each entry for each quadruple when prompted. Itâs recommended that the user prepare the Turing code before interacting with the program (unless the user is comfortable programming Turing machines on the fly).   
+The program prompts the user to input Turing machine instructions. The code for an arbitrary Turing machine is a set of quadruples. The user inputs each entry for each quadruple when prompted. Itâs recommended that the user prepare the Turing code before interacting with the program (unless the user is comfortable programming Turing machines on the fly).   
 
 ### How to ###
 
